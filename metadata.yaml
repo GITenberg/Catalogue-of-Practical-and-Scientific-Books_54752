@@ -1,11 +1,16 @@
 _repo: Catalogue-of-Practical-and-Scientific-Books_54752
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54752-h/images/cover.jpg
 creator:
   author:
     agent_name: Baird, Henry Carey
     gutenberg_agent_id: '48027'
     url: http://www.gutenberg.org/2009/agents/48027
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54752#Catalogue-of-Practical-and-Scientific-Books
 gutenberg_issued: '2017-05-21'
 gutenberg_type: Text
 identifiers:
